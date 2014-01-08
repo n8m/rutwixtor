@@ -1,0 +1,19 @@
+version 1.0.3 (released 05/12/2008)
+
+    * "About me" text is being pulled from a database instead of a file. In order to change the text, go to your theme's option page now.
+
+
+version 1.0.2 (released 04/12/2008)
+
+    * Fixed the background bug which occured using Safari.
+    * Re-packed the zip file, when it's decompressed the files would be in a folder "mortgages".
+
+
+version 1.0.1 (released 03/12/2008)
+
+    * Added tagline.
+
+
+version 1.0.0 (released 02/12/2008)
+
+    * Initial version.

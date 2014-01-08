@@ -1,0 +1,1 @@
+[25-Dec-2012 09:58:45] PHP Fatal error:  Call to undefined function add_action() in /home/gomelp/public_html/Twixtor/wp-content/plugins/akismet/legacy.php on line 356
