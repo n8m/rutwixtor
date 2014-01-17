@@ -16,13 +16,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'vh26719_Twixtor');
+define('DB_NAME', 'heroku_52d0d962b069014');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'vh26719_n8m');
+define('DB_USER', 'b2b3c0bd145401');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'kollider');
+define('DB_PASSWORD', 'e3d1989b');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
