@@ -25,7 +25,7 @@ define('DB_USER', 'bf7a295cb38d68');
 define('DB_PASSWORD', '8cae0c19');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'heroku_e66bd5256395125');
+define('DB_HOST', 's-cdbr-east-04.cleardb.com');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
